@@ -1,0 +1,16 @@
+Overall Test Accuracy: 0.8273
+
+Per-class Accuracy:
+
+Black-grass: 0.1250
+Charlock: 0.4000
+Cleavers: 0.8966
+Common Chickweed: 1.0000
+Common wheat: 0.9167
+Fat Hen: 0.8200
+Loose Silky-bent: 0.9857
+Maize: 0.8333
+Scentless Mayweed: 0.9000
+Shepherds Purse: 0.2400
+Small-flowered Cranesbill: 0.9600
+Sugar beet: 0.9500
